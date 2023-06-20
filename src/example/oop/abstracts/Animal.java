@@ -10,6 +10,6 @@ public abstract class Animal {
         this.gender = gender;
     }
 
-//    example of abastract method s
+//    example of abastract method
     public abstract void run();
 }
